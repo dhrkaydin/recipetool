@@ -1,0 +1,18 @@
+{
+  "name": "Rock and Mozzarella Salad",
+  "description": "A refreshing and delicious salad that's perfect for summer",
+  "instructions": "Put the rock and the mozzarella together, come on man.",
+  "isVegetarian": false,
+  "servings": 2,
+  "time": 10,
+  "ingredients": [
+    {
+      "name": "Rock",
+      "quantity": "2"
+    },
+    {
+      "name": "Mozzarella",
+      "quantity": "50 grams"
+    }
+  ]
+}
